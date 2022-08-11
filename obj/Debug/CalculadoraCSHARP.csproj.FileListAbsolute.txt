@@ -1,0 +1,10 @@
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\bin\Debug\CalculadoraCSHARP.exe.config
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\bin\Debug\CalculadoraCSHARP.exe
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\bin\Debug\CalculadoraCSHARP.pdb
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.csproj.AssemblyReference.cache
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.Form1.resources
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.Properties.Resources.resources
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.csproj.GenerateResource.cache
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.exe
+C:\Users\POSITIVO\Desktop\C#\CalculadoraCSHARP\CalculadoraCSHARP\obj\Debug\CalculadoraCSHARP.pdb
